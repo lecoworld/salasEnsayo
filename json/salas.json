@@ -1,0 +1,145 @@
+[{
+    "id": 1,
+    "nombre": "s01",
+    "metros2": 15,
+    "precioHora": 10,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 2,
+    "nombre": "s02",
+    "metros2": 15,
+    "precioHora": 8,
+    "equipado": false,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 3,
+    "nombre": "s03",
+    "metros2": 19,
+    "precioHora": 10,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 4,
+    "nombre": "s04",
+    "metros2": 15,
+    "precioHora": 8,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 5,
+    "nombre": "m01",
+    "metros2": 22,
+    "precioHora": 12,
+    "equipado": false,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 6,
+    "nombre": "m02",
+    "metros2": 28,
+    "precioHora": 14,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 7,
+    "nombre": "m03",
+    "metros2": 23,
+    "precioHora": 12,
+    "equipado": false,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 8,
+    "nombre": "m04",
+    "metros2": 22,
+    "precioHora": 14,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 9,
+    "nombre": "l01",
+    "metros2": 35,
+    "precioHora": 15,
+    "equipado": false,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 10,
+    "nombre": "l02",
+    "metros2": 40,
+    "precioHora": 20,
+    "equipado": true,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 11,
+    "nombre": "l03",
+    "metros2": 38,
+    "precioHora": 20,
+    "equipado": true,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 12,
+    "nombre": "l04",
+    "metros2": 45,
+    "precioHora": 16,
+    "equipado": true,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 13,
+    "nombre": "xs01",
+    "metros2": 10,
+    "precioHora": 5,
+    "equipado": false,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 14,
+    "nombre": "xs02",
+    "metros2": 8,
+    "precioHora": 5,
+    "equipado": false,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 15,
+    "nombre": "xl01",
+    "metros2": 55,
+    "precioHora": 8.5,
+    "equipado": false,
+    "estaDispoible": true,
+    "recomendaciones": [],
+    "estaOculta": false
+}, {
+    "id": 16,
+    "nombre": "main",
+    "metros2": 90,
+    "precioHora": 100,
+    "equipado": true,
+    "estaDispoible": false,
+    "recomendaciones": [],
+    "estaOculta": false
+}]
